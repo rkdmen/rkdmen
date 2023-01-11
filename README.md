@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/rkdmen/rkdmen/blob/output/github-contribution-grid-snake.svg)
+
 ### Hi there 👋🏻
 
 🤟🏻😈ᕗ
