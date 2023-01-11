@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/rkdmen/rkdmen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rkdmen/rkdmen/blob/assets/github-contribution-grid-snake.svg)
 
 ### Hi there 👋🏻
 
